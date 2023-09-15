@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name        YT-OverrideIco
-// @namespace   Violentmonkey Scripts
-// @version     1.0
-// @author      Keshmi
-// @description:ru Переопределяет ресурс иконок для Youtube. 
-// @match       https://youtube.com/*
-// @match       https://www.youtube.com/*
-// @description 15.09.2023
+// @name            YT-OverrideIco
+// @namespace       Violentmonkey Scripts
+// @version         1.1
+// @author          Keshmi
+// @description:ru  Переопределяет ресурс иконок для Youtube.
+// @updateURL       https://github.com/KeshmiOn/YT-OverrideIco/raw/main/YT-OverrideIco.user.js
+// @match           https://youtube.com/*
+// @match           https://www.youtube.com/*
+// @description     15.09.2023
 // ==/UserScript==
 
 (function() {
